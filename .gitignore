@@ -3,3 +3,7 @@ dist/
 
 # Dependency directories
 node_modules
+
+#IntelliJ
+.idea/
+*.iml
