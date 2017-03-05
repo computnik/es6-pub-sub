@@ -1,0 +1,14 @@
+{
+  "name": "pubsub",
+  "version": "0.0.1",
+  "description": "PubSub Minimalist",
+  "scripts": {},
+  "main": "index.js",
+  "author": "Nikhil Motiani <nikhil.motiani@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.22.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2"
+  }
+}
